@@ -1,7 +1,6 @@
 # RAFID — Funding Readiness Engine | رافد — محرك جاهزية التمويل
 
 > **Amad 2026 Hackathon** — FinTech Track
-> **MVP Submission | نسخة الحد الأدنى القابل للتطبيق**
 
 ---
 
